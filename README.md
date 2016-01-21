@@ -54,11 +54,11 @@ timescale seems plausible. (about 27 working days).
 
 
 Overall documentation
-    2.5 days
+    2.5 days,
     1.5 days remaining
 
 Connect to separate RDS
-    5 days
+    5 days,
     1.5 days remaining
 
 Connect to separate EBS
